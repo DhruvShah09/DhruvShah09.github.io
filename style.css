@@ -1,7 +1,18 @@
 body {
-    background-color: #162761;
+    background-color: black;
 }
 .navblue {
-    background-color: #162761;
+    background-color: black;
+    color: white;
+}
+.bannerTextName {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 10em;
+    color: white;
+}
+.bannerTextBio {
+    font-family: 'Lora', serif;
     color: white;
 }
