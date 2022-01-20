@@ -15,4 +15,6 @@ body {
 .bannerTextBio {
     font-family: 'Lora', serif;
     color: white;
+    margin-top: 1%;
+    font-size: 1.7em;
 }
